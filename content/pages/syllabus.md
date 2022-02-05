@@ -35,41 +35,391 @@ Grading
 
 Exams are closed book and closed notes. Grades will be based on the following:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem Sets | 10% |
-| Midterm Exam | 40% |
-| Final Exam | 50% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm Exam
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction to the Nervous System (Quinn) | &nbsp; |
-| 2 | Membrane Channels and Signaling (Quinn) | &nbsp; |
-| 3 | Ionic Basis of the Resting Potential (Quinn) | &nbsp; |
-| 4 | Action Potential I (Quinn) | &nbsp; |
-| 5 | Action Potential II (Quinn) | &nbsp; |
-| 6 | Neurons as Conductors: Propagation of the Action Potential (Quinn) | Problem Set 1 due |
-| 7 | Intro to Synaptic Transmission (Quinn) | &nbsp; |
-| 8 | Mechanisms of Transmitter Release at Synapses (Quinn) | &nbsp; |
-| 9 | Indirect Mechanisms of Synaptic Transmission (Quinn) | &nbsp; |
-| 10 | Biochemistry of Neurotransmitters, Receptors, and Second-messenger Systems (Quinn) | Problem Set 2 due |
-| 11 | Learning and Memory I (Quinn) | &nbsp; |
-| 12 | Learning and Memory II (Quinn) | &nbsp; |
-| 13 | \[No Lecture\] | Midterm Exam |
-| 14 | Brain Structure and Genomics (Littleton) | &nbsp; |
-| 15 | Nervous System Development I (Littleton) | &nbsp; |
-| 16 | Nervous System Development II (Littleton) | &nbsp; |
-| 17 | Axon Guidance (Littleton) | &nbsp; |
-| 18 | Synapse Formation (Littleton) | &nbsp; |
-| 19 | Fine-Tuning Synaptic Connections (Littleton) | &nbsp; |
-| 20 | Vision I (Littleton) | &nbsp; |
-| 21 | Vision II (Littleton) | &nbsp; |
-| 22 | Hearing (Littleton) | Problem Set 3 due |
-| 23 | Olfaction and Other Sensory Systems (Littleton) | &nbsp; |
-| 24 | Touch, Pain and Thermoreception (Littleton) | &nbsp; |
-| 25 | Higher Order Cognitive Function and Disease (Littleton) | &nbsp; |
-| 26 | Final Review (Littleton) | &nbsp; |
-| 27 | \[No Lecture\] | Final Exam
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the Nervous System (Quinn)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Membrane Channels and Signaling (Quinn)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Ionic Basis of the Resting Potential (Quinn)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Action Potential I (Quinn)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Action Potential II (Quinn)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Neurons as Conductors: Propagation of the Action Potential (Quinn)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Intro to Synaptic Transmission (Quinn)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Mechanisms of Transmitter Release at Synapses (Quinn)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Indirect Mechanisms of Synaptic Transmission (Quinn)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Biochemistry of Neurotransmitters, Receptors, and Second-messenger Systems (Quinn)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Learning and Memory I (Quinn)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Learning and Memory II (Quinn)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+\[No Lecture\]
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Exam
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Brain Structure and Genomics (Littleton)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Nervous System Development I (Littleton)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Nervous System Development II (Littleton)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Axon Guidance (Littleton)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Synapse Formation (Littleton)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Fine-Tuning Synaptic Connections (Littleton)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Vision I (Littleton)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Vision II (Littleton)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Hearing (Littleton)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem Set 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Olfaction and Other Sensory Systems (Littleton)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Touch, Pain and Thermoreception (Littleton)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Higher Order Cognitive Function and Disease (Littleton)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Final Review (Littleton)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+\[No Lecture\]
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

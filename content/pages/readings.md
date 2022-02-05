@@ -12,32 +12,345 @@ Readings in the table below are from the following course textbooks:
 
 \[Nicholls\] = Nicholls, John G. _From Neuron to Brain_. Sinauer Associates, 2011. ISBN: 9780878936090.
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction to the Nervous System (Quinn) | \[Squire\] Chapters 1 and 2, Chapter 3 up to p. 47. |
-| 2 | Membrane Channels and Signaling (Quinn) | \[Kandel\] Chapter 6. |
-| 3 | Ionic Basis of the Resting Potential (Quinn) | \[Kandel\] Chapter 7. |
-| 4 | Action Potential I (Quinn) | \[Nicholls\] Chapter 4. |
-| 5 | Action Potential II (Quinn) | \[Kandel\] Chapter 9. |
-| 6 | Neurons as Conductors: Propagation of the Action Potential (Quinn) | \[Squire\] Chapter 5. |
-| 7 | Intro to Synaptic Transmission (Quinn) | \[Nicholls\] Chapter 7. |
-| 8 | Mechanisms of Transmitter Release at Synapses (Quinn) | \[Squire\] Chapter 8. |
-| 9 | Indirect Mechanisms of Synaptic Transmission (Quinn) | \[Kandel\] Chapter 13. |
-| 10 | Biochemistry of Neurotransmitters, Receptors, and Second-messenger Systems (Quinn) | \[Squire\] Chapters 9 and 10. |
-| 11 | Learning and Memory I (Quinn) | \[Kandel\] Chapter 62. |
-| 12 | Learning and Memory II (Quinn) | \[Kandel\] Chapter 63. |
-| 13 | Midterm Exam | \[No Readings\] |
-| 14 | Brain Structure and Genomics (Littleton) | \[Squire\] Chapters 2 and 28. |
-| 15 | Nervous System Development I (Littleton) | \[Squire\] Chapters 2 and 14. |
-| 16 | Nervous System Development II (Littleton) | \[Squire\] Chapters 15 and 16. |
-| 17 | Axon Guidance (Littleton) | \[Squire\] Chapter 17. |
-| 18 | Synapse Formation (Littleton) | \[Squire\] Chapter 18. |
-| 19 | Fine-Tuning Synaptic Connections (Littleton) | \[Squire\] Chapters 19 and 20. |
-| 20 | Vision I (Littleton) | \[Squire\] Chapters 23 and 27. |
-| 21 | Vision II (Littleton) | \[Squire\] Chapter 27. |
-| 22 | Hearing (Littleton) | \[Squire\] Chapter 26. |
-| 23 | Olfaction and Other Sensory Systems (Littleton) | \[Squire\] Chapter 24. |
-| 24 | Touch, Pain and Thermoreception (Littleton) | \[Squire\] Chapter 25. |
-| 25 | Higher Order Cognitive Function and Disease (Littleton) | \[Squire\] Chapters 51 and 52. |
-| 26 | Final Review (Littleton) | \[No Readings\] |
-| 27 | Final Exam | \[No Readings\]
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to the Nervous System (Quinn)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Squire\] Chapters 1 and 2, Chapter 3 up to p. 47.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Membrane Channels and Signaling (Quinn)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Kandel\] Chapter 6.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Ionic Basis of the Resting Potential (Quinn)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Kandel\] Chapter 7.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Action Potential I (Quinn)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Nicholls\] Chapter 4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Action Potential II (Quinn)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Kandel\] Chapter 9.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Neurons as Conductors: Propagation of the Action Potential (Quinn)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Squire\] Chapter 5.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Intro to Synaptic Transmission (Quinn)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Nicholls\] Chapter 7.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Mechanisms of Transmitter Release at Synapses (Quinn)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Squire\] Chapter 8.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Indirect Mechanisms of Synaptic Transmission (Quinn)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Kandel\] Chapter 13.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Biochemistry of Neurotransmitters, Receptors, and Second-messenger Systems (Quinn)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Squire\] Chapters 9 and 10.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Learning and Memory I (Quinn)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Kandel\] Chapter 62.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Learning and Memory II (Quinn)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Kandel\] Chapter 63.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Midterm Exam
+{{< tdclose >}}
+{{< tdopen >}}
+\[No Readings\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Brain Structure and Genomics (Littleton)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Squire\] Chapters 2 and 28.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Nervous System Development I (Littleton)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Squire\] Chapters 2 and 14.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Nervous System Development II (Littleton)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Squire\] Chapters 15 and 16.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Axon Guidance (Littleton)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Squire\] Chapter 17.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Synapse Formation (Littleton)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Squire\] Chapter 18.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Fine-Tuning Synaptic Connections (Littleton)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Squire\] Chapters 19 and 20.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Vision I (Littleton)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Squire\] Chapters 23 and 27.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Vision II (Littleton)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Squire\] Chapter 27.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Hearing (Littleton)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Squire\] Chapter 26.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Olfaction and Other Sensory Systems (Littleton)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Squire\] Chapter 24.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Touch, Pain and Thermoreception (Littleton)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Squire\] Chapter 25.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Higher Order Cognitive Function and Disease (Littleton)
+{{< tdclose >}}
+{{< tdopen >}}
+\[Squire\] Chapters 51 and 52.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Final Review (Littleton)
+{{< tdclose >}}
+{{< tdopen >}}
+\[No Readings\]
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+\[No Readings\]
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
