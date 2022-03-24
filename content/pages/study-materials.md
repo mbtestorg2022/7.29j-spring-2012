@@ -13,9 +13,9 @@ Additional Handouts and Readings
 
 [An Outline of Blockers and Toxins at the Neuromuscular Junction (PDF)]({{< baseurl >}}/resources/mit7_29js12_blockerstoxins)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Derivation of the Nernst Equation (PDF)]({{< baseurl >}}/resources/mit7_29js12_quikiedrvnern)
+[Derivation of the Nernst Equation (PDF)]({{< baseurl >}}/resources/mit7_29js12_quikiedrvnern)
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Handout on Receptor Binding (PDF)]({{< baseurl >}}/resources/mit7_29js12_recepbindhout)
+[Handout on Receptor Binding (PDF)]({{< baseurl >}}/resources/mit7_29js12_recepbindhout)
 
 [Sensory Systems Review (PDF)]({{< baseurl >}}/resources/mit7_29js12_sensorysysrew)
 
