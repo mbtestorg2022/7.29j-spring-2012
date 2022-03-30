@@ -4,6 +4,7 @@ description: This resource contains information regarding list of visual and aud
   disorders
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-29j-cellular-neurobiology-spring-2012/e311a22901170bc12c90a766d829d46f_MIT7_29JS12_VislAudiDisodr.pdf
 file_type: application/pdf
+parent_uid: f4d07241-2949-9aa0-6df2-d2d157c822dc
 resourcetype: Document
 title: List of Visual and Auditory Disorders
 uid: e311a229-0117-0bc1-2c90-a766d829d46f

@@ -4,6 +4,7 @@ description: This resource contains information regarding cellular neurobiology 
   2009
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-29j-cellular-neurobiology-spring-2012/de93073dce5526564af3cb8b16fd2e90_MIT7_29JS12_Midterm09.pdf
 file_type: application/pdf
+parent_uid: d2390e83-ded9-ab0a-9f7a-c44e6a492e73
 resourcetype: Document
 title: Cellular Neurobiology Midterm 2009
 uid: de93073d-ce55-2656-4af3-cb8b16fd2e90
